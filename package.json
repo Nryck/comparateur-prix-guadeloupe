@@ -1,0 +1,10 @@
+{
+  "name": "comparateur-prix-guadeloupe",
+  "version": "1.0.0",
+  "description": "Comparateur de prix pour la Guadeloupe",
+  "main": "scraper.js",
+  "dependencies": {
+    "puppeteer": "^13.0.0",
+    "axios": "^0.24.0"
+  }
+}
